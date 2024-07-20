@@ -1,0 +1,11 @@
+venv
+.DS_Store
+.ipynb_checkpoints
+.python-version
+chromedriver_linux64.zip
+*.csv
+*.xlsx
+geckodriver-v0.34.0-linux32.tar.gz
+__pycache__/twitter_cred.cpython-38.pyc
+geckodriver-v0.34.0-linux32.tar.gz
+luxemburg_project.zip
